@@ -81,8 +81,8 @@ $(document).ready(function(){
 
                         
                 <div class = "container">
-                            
-                                <img src=${e.target.feature.properties.image}>
+                <p class="close" onclick="mysidebar.hide()"><i class="bi bi-chevron-double-right">Back</i></p>            
+                                <img class="myimage" src=${e.target.feature.properties.image}>
                                 <br>
                                 <br>
                                 <br>
@@ -104,13 +104,13 @@ $(document).ready(function(){
 
                                               
                                         <div class = "row">
-                                            <h1>${e.target.feature.properties.title}</h1>
+                                            <h2>${e.target.feature.properties.title}</h2>
                                             <p><span style='color:gray'>${e.target.feature.properties.category}</span></P>
                                             <hr>
                                         </div>
                                         
                                         <div class = "row">
-                                            <h4>Description</h4>
+                                            <h5>Description</h5>
                                             <hr>
                                         </div>
 

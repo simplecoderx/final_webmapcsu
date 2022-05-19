@@ -104,7 +104,7 @@ var line =
         "marker-size": "medium",
         "marker-symbol": "building",
         "title": "CHED",
-        "Category": "Building",
+        "category": "Building",
         "image": "img/6.jpg",
         "info": "The Commission on Higher Education (CHED) was created on May 18, 1994 through the passage of Republic Act. No. 7722, or the Higher Education Act of 1994. CHED, an agency attached to the office of the president for administrative purposes, is headed by a chairperson and four commissioners, each having a term of office for four years. The CHED Caraga is located beside CSU main gate."
       },
@@ -351,7 +351,7 @@ var line =
         "marker-size": "medium",
         "marker-symbol": "industrial",
         "title": "Food Innovation Center",
-        "  category": "Industry Center",
+        "category": "Industry Center",
         "image": "img/19.jpg",
         "info": "University's Food Innovation Center is located behind CAA buildings."
       },
@@ -504,7 +504,7 @@ var line =
         "marker-symbol": "commercial",
         "title": "CAS Student Center",
         "category": "Center",
-        "image": "{{{asset('import/img/27.jpg')}}",
+        "image": "img/27.jpg",
         "info": "Every college in Caraga State University has own separate Student center and from the College of Agricultural Science, they also have their wing of S&T building/New State Building (NSB)."
       },
       "geometry": {
