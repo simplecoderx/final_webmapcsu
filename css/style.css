@@ -78,10 +78,10 @@ img{
    
 /* Style the close button (span) */
 .close {
-    color: rgb(82, 79, 79);
+    color: rgb(100, 97, 97);
     cursor: pointer;
     position: absolute;
-    top: 120%;
+    top: 105%;
     right: 5%;
     z-index: 100;
     visibility: hidden;
@@ -90,14 +90,15 @@ img{
   
   .close:hover {color: rgb(100, 97, 97);}
 
-  @media only screen and (max-width: 768px) {
+  @media only screen and (max-width: 600px) {
     /* For mobile phones: */
     .close{
         visibility: visible;
         position: absolute;
-        top: 120%;
+        top: 105%;
         right: 5%;
         padding-bottom: 20px;
+
     }
     .myimage{
         position: absolute;
@@ -105,9 +106,11 @@ img{
         left: 50%;
         width: 456px;
         height: 320px;
-        padding-bottom: 70px;
+        padding-bottom: 50px;
         -webkit-transform: translateY(-50%) translateX(-50%);
         transform: translateY(-50%) translateX(-50%);
     }
   }
+
+ 
   
