@@ -106,7 +106,7 @@ img{
         left: 50%;
         width: 456px;
         height: 375px;
-        padding-bottom: 100px;
+        padding-bottom: 130px;
         -webkit-transform: translateY(-50%) translateX(-50%);
         transform: translateY(-50%) translateX(-50%);
     }
