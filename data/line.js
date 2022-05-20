@@ -1092,7 +1092,7 @@ var line =
         "marker-size": "medium",
         "marker-symbol": "farm",
         "title": "Old Farm Mechanization Center",
-        "catergory": "Farm ",
+        "category": "Farm Center",
         "image": "img/60.jpg",
         "info": "Old Mechanization Center is in line with Eco Park and in front of this building, an old ROTC/ Gen. Service Office can be found. It can easily be recognized because it is along the university main street."
       },
